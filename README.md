@@ -1,7 +1,7 @@
 Hi 👋 My name is Kingsley Ohaneme 
 =================================
 
-Cloud DevOps Engineer | Web Developer | Cloud Developer
+Cloud DevOps Engineer | Backend Engineer | Cloud Developer
 ------------------------------------------------
 
 * 🌍  I'm based in Abuja, Nigeria
