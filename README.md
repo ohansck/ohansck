@@ -10,6 +10,15 @@ Cloud DevOps Engineer | Backend Engineer | Cloud Developer
 
 ### Skills
 
+---
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ohansck&show_icons=true&locale=en&layout=compact&theme=onedark" alt="ohansck" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ohansck&show_icons=true&locale=en&theme=onedark" alt="ohansck" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ohansck&theme=onedark" alt="ohansck" /></p>
+
+---
 
 <p align="left">
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
