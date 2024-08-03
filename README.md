@@ -1,12 +1,12 @@
-Hi 👋 My name is Kingsley Ohaneme 
+Kingsley Ohaneme 
 =================================
 
-Cloud DevOps Engineer | Backend Engineer | Cloud Developer
+DevOps Engineer | Backend Engineer | Cloud Developer | Technical Instructor | Trainer
 ------------------------------------------------
 
 * 🌍  I'm based in Abuja, Nigeria
 * ✉️  You can contact me at [king.ohaneme@gmail.com](mailto:king.ohaneme@gmail.com)
-* 🤝  I'm open to collaborating on Cloud development projects with AWS, NodeJs, typescript, and JavaScript
+* 🤝  I'm open to collaborating on DevOps, Backend Development, Cloud Development projects with AWS, NodeJs, typescript, and JavaScript
 
 ### Skills
 
