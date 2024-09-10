@@ -7,6 +7,7 @@ DevOps Engineer | Backend Engineer | Cloud Developer | Technical Instructor | Tr
 * 🌍  I'm based in Abuja, Nigeria
 * ✉️  You can contact me at [king.ohaneme@gmail.com](mailto:king.ohaneme@gmail.com)
 * 🤝  I'm open to collaborating on DevOps, Backend Development, Cloud Development projects with AWS, NodeJs, typescript, and JavaScript
+* Techpreneur, solving problems for businesses
 
 ### Skills
 
