@@ -1,7 +1,7 @@
 Kingsley Ohaneme 
 =================================
 
-DevOps Engineer | Backend Engineer | Cloud Developer | Technical Instructor | Trainer
+DevOps Engineer | Backend Engineer | AI Automation | Cloud Developer | Technical Instructor
 ------------------------------------------------
 
 * 🌍  I'm based in Abuja, Nigeria
